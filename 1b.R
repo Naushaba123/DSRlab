@@ -1,4 +1,4 @@
-path="D:/7th SEM/DSR Lab"
+path="D:/Users/Admin/Desktop/1b"
 setwd(path)
 bankdata=read.delim("bank-data.csv")
 bankdata
